@@ -125,7 +125,6 @@ msgpack==0.6.1
 multidict==4.6.1
 multipledispatch==0.6.0
 multitasking==0.0.9
-navigator-updater==0.2.1
 nbconvert==5.4.1
 nbformat==4.4.0
 networkx==2.4
